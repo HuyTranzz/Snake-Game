@@ -1,6 +1,6 @@
 # Snake-Game
 Snake Game on 8051 Microcontroller Kit
-This project implements the classic Snake Game on an 8051 microcontroller kit (AT89C52 or compatible) using an 8x8 LED matrix, 74HC595 shift register, and a 4x4 keypad for user input.
+This project implements the classic Snake Game on an 8051 microcontroller kit (AT89C52) using an 8x8 LED matrix, 74HC595 shift register, and a 4x4 keypad for user input.
 
 Features
 LED Matrix Display (8x8): Displays the snake, food, and game status.
